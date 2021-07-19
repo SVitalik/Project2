@@ -1,0 +1,3 @@
+﻿  ДЗ_4.cpp
+C:\Users\TSS\source\repos\ДЗ_4\ДЗ_4\ДЗ_4.cpp(11,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  ДЗ_4.vcxproj -> C:\Users\TSS\source\repos\ДЗ_4\Debug\ДЗ_4.exe
