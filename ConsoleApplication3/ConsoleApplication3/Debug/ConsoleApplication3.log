@@ -1,0 +1,4 @@
+﻿  ConsoleApplication3.cpp
+C:\Users\TSS\source\repos\ConsoleApplication3\ConsoleApplication3\ConsoleApplication3.cpp(6,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+C:\Users\TSS\source\repos\ConsoleApplication3\ConsoleApplication3\ConsoleApplication3.cpp(10,19): warning C4305: инициализация: усечение из "double" в "float"
+  ConsoleApplication3.vcxproj -> C:\Users\TSS\source\repos\ConsoleApplication3\Debug\ConsoleApplication3.exe
