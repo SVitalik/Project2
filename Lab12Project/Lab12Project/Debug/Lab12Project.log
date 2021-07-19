@@ -1,0 +1,6 @@
+﻿  MyForm.cpp
+C:\Users\TSS\source\repos\Lab12Project\Lab12Project\MyForm.h(221,8): warning C4804: <=: небезопасное использование типа "bool" в операции
+C:\Users\TSS\source\repos\Lab12Project\Lab12Project\MyForm.cpp(6,32): warning C4829: Возможно, неправильные параметры функции main. Рекомендуемый вариант - "int main(Platform::Array<Platform::String^>^ argv)"
+C:\Users\TSS\source\repos\Lab12Project\Lab12Project\MyForm.h(213): warning C4700: использована неинициализированная локальная переменная "x"
+  MyForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  Lab12Project.vcxproj -> C:\Users\TSS\source\repos\Lab12Project\Debug\Lab12Project.exe
