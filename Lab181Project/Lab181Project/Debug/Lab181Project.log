@@ -1,0 +1,12 @@
+﻿  About.cpp
+  MyForm.cpp
+C:\Users\TSS\source\repos\Lab181Project\Lab181Project\MyForm.h(653,12): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\TSS\source\repos\Lab181Project\Lab181Project\MyForm.h(710,27): warning C4244: =: преобразование "__int64" в "int", возможна потеря данных
+C:\Users\TSS\source\repos\Lab181Project\Lab181Project\MyForm.h(716,26): warning C4244: =: преобразование "__int64" в "int", возможна потеря данных
+C:\Users\TSS\source\repos\Lab181Project\Lab181Project\MyForm.h(675,7): warning C4101: buf: неиспользованная локальная переменная
+C:\Users\TSS\source\repos\Lab181Project\Lab181Project\MyForm.h(714,11): warning C4101: end: неиспользованная локальная переменная
+C:\Users\TSS\source\repos\Lab181Project\Lab181Project\MyForm.h(727,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\TSS\source\repos\Lab181Project\Lab181Project\MyForm.cpp(6,32): warning C4829: Возможно, неправильные параметры функции main. Рекомендуемый вариант - "int main(Platform::Array<Platform::String^>^ argv)"
+  Создание кода...
+  About.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  Lab181Project.vcxproj -> C:\Users\TSS\source\repos\Lab181Project\Debug\Lab181Project.exe

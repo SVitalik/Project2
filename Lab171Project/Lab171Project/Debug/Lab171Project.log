@@ -1,0 +1,7 @@
+﻿  MyForm.cpp
+C:\Users\TSS\source\repos\Lab171Project\Lab171Project\MyForm.h(227,36): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\TSS\source\repos\Lab171Project\Lab171Project\MyForm.h(227,30): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\TSS\source\repos\Lab171Project\Lab171Project\MyForm.h(227,28): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\TSS\source\repos\Lab171Project\Lab171Project\MyForm.cpp(6,32): warning C4829: Возможно, неправильные параметры функции main. Рекомендуемый вариант - "int main(Platform::Array<Platform::String^>^ argv)"
+  MyForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  Lab171Project.vcxproj -> C:\Users\TSS\source\repos\Lab171Project\Debug\Lab171Project.exe
