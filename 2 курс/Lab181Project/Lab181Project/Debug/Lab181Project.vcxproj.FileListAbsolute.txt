@@ -1,0 +1,5 @@
+C:\Users\TSS\source\repos\Lab181Project\Lab181Project\Debug\Lab181Project.vcxprojAssemblyReference.cache
+C:\Users\TSS\source\repos\Lab181Project\Lab181Project\Debug\Lab181Project.MyForm.resources
+C:\Users\TSS\source\repos\Lab181Project\Lab181Project\Debug\Lab181Project.vcxproj.GenerateResource.cache
+C:\Users\TSS\source\repos\Lab181Project\Lab181Project\Debug\Lab181Project.About.resources
+C:\Users\TSS\source\repos\Lab181Project\Lab181Project\Debug\Lab181Project.abouthelp.resources
