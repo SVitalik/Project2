@@ -1,0 +1,6 @@
+﻿  MyForm.cpp
+C:\Users\TSS\source\repos\Lab14Project\Lab14Project\MyForm.h(214,10): warning C4101: y: неиспользованная локальная переменная
+C:\Users\TSS\source\repos\Lab14Project\Lab14Project\MyForm.h(214,7): warning C4101: x: неиспользованная локальная переменная
+C:\Users\TSS\source\repos\Lab14Project\Lab14Project\MyForm.cpp(6,32): warning C4829: Возможно, неправильные параметры функции main. Рекомендуемый вариант - "int main(Platform::Array<Platform::String^>^ argv)"
+  MyForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  Lab14Project.vcxproj -> C:\Users\TSS\source\repos\Lab14Project\Debug\Lab14Project.exe
