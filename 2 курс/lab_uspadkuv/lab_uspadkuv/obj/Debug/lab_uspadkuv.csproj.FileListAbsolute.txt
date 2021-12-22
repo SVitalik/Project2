@@ -1,0 +1,7 @@
+C:\Users\TSS\source\repos\lab_uspadkuv\lab_uspadkuv\bin\Debug\lab_uspadkuv.exe.config
+C:\Users\TSS\source\repos\lab_uspadkuv\lab_uspadkuv\bin\Debug\lab_uspadkuv.exe
+C:\Users\TSS\source\repos\lab_uspadkuv\lab_uspadkuv\bin\Debug\lab_uspadkuv.pdb
+C:\Users\TSS\source\repos\lab_uspadkuv\lab_uspadkuv\obj\Debug\lab_uspadkuv.csprojAssemblyReference.cache
+C:\Users\TSS\source\repos\lab_uspadkuv\lab_uspadkuv\obj\Debug\lab_uspadkuv.csproj.CoreCompileInputs.cache
+C:\Users\TSS\source\repos\lab_uspadkuv\lab_uspadkuv\obj\Debug\lab_uspadkuv.exe
+C:\Users\TSS\source\repos\lab_uspadkuv\lab_uspadkuv\obj\Debug\lab_uspadkuv.pdb
