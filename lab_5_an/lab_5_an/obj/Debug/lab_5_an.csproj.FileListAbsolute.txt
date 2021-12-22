@@ -1,0 +1,10 @@
+C:\Users\TSS\source\repos\lab_5_an\lab_5_an\bin\Debug\lab_5_an.exe.config
+C:\Users\TSS\source\repos\lab_5_an\lab_5_an\bin\Debug\lab_5_an.exe
+C:\Users\TSS\source\repos\lab_5_an\lab_5_an\bin\Debug\lab_5_an.pdb
+C:\Users\TSS\source\repos\lab_5_an\lab_5_an\obj\Debug\lab_5_an.csprojAssemblyReference.cache
+C:\Users\TSS\source\repos\lab_5_an\lab_5_an\obj\Debug\lab_5_an.Form1.resources
+C:\Users\TSS\source\repos\lab_5_an\lab_5_an\obj\Debug\lab_5_an.Properties.Resources.resources
+C:\Users\TSS\source\repos\lab_5_an\lab_5_an\obj\Debug\lab_5_an.csproj.GenerateResource.cache
+C:\Users\TSS\source\repos\lab_5_an\lab_5_an\obj\Debug\lab_5_an.csproj.CoreCompileInputs.cache
+C:\Users\TSS\source\repos\lab_5_an\lab_5_an\obj\Debug\lab_5_an.exe
+C:\Users\TSS\source\repos\lab_5_an\lab_5_an\obj\Debug\lab_5_an.pdb
