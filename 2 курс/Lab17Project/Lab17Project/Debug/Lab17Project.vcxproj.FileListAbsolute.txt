@@ -1,0 +1,3 @@
+C:\Users\TSS\source\repos\Lab17Project\Lab17Project\Debug\Lab17Project.vcxprojAssemblyReference.cache
+C:\Users\TSS\source\repos\Lab17Project\Lab17Project\Debug\Lab17Project.MyForm.resources
+C:\Users\TSS\source\repos\Lab17Project\Lab17Project\Debug\Lab17Project.vcxproj.GenerateResource.cache
