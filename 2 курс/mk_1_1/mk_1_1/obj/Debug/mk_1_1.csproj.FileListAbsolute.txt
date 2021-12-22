@@ -1,0 +1,10 @@
+C:\Users\TSS\source\repos\mk_1_1\mk_1_1\bin\Debug\mk_1_1.exe.config
+C:\Users\TSS\source\repos\mk_1_1\mk_1_1\bin\Debug\mk_1_1.exe
+C:\Users\TSS\source\repos\mk_1_1\mk_1_1\bin\Debug\mk_1_1.pdb
+C:\Users\TSS\source\repos\mk_1_1\mk_1_1\obj\Debug\mk_1_1.csprojAssemblyReference.cache
+C:\Users\TSS\source\repos\mk_1_1\mk_1_1\obj\Debug\mk_1_1.Form1.resources
+C:\Users\TSS\source\repos\mk_1_1\mk_1_1\obj\Debug\mk_1_1.Properties.Resources.resources
+C:\Users\TSS\source\repos\mk_1_1\mk_1_1\obj\Debug\mk_1_1.csproj.GenerateResource.cache
+C:\Users\TSS\source\repos\mk_1_1\mk_1_1\obj\Debug\mk_1_1.csproj.CoreCompileInputs.cache
+C:\Users\TSS\source\repos\mk_1_1\mk_1_1\obj\Debug\mk_1_1.exe
+C:\Users\TSS\source\repos\mk_1_1\mk_1_1\obj\Debug\mk_1_1.pdb
