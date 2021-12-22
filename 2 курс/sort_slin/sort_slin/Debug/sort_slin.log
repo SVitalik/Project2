@@ -1,0 +1,3 @@
+﻿  sort_slin.cpp
+C:\Users\TSS\source\repos\sort_slin\sort_slin\sort_slin.cpp(90,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  sort_slin.vcxproj -> C:\Users\TSS\source\repos\sort_slin\Debug\sort_slin.exe
