@@ -1,0 +1,7 @@
+C:\Users\TSS\source\repos\modul_2\modul_2\bin\Debug\modul_2.exe.config
+C:\Users\TSS\source\repos\modul_2\modul_2\bin\Debug\modul_2.exe
+C:\Users\TSS\source\repos\modul_2\modul_2\bin\Debug\modul_2.pdb
+C:\Users\TSS\source\repos\modul_2\modul_2\obj\Debug\modul_2.csprojAssemblyReference.cache
+C:\Users\TSS\source\repos\modul_2\modul_2\obj\Debug\modul_2.csproj.CoreCompileInputs.cache
+C:\Users\TSS\source\repos\modul_2\modul_2\obj\Debug\modul_2.exe
+C:\Users\TSS\source\repos\modul_2\modul_2\obj\Debug\modul_2.pdb
