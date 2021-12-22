@@ -1,0 +1,7 @@
+C:\Users\TSS\source\repos\lab_class_2\lab_class_2\bin\Debug\lab_class_2.exe.config
+C:\Users\TSS\source\repos\lab_class_2\lab_class_2\bin\Debug\lab_class_2.exe
+C:\Users\TSS\source\repos\lab_class_2\lab_class_2\bin\Debug\lab_class_2.pdb
+C:\Users\TSS\source\repos\lab_class_2\lab_class_2\obj\Debug\lab_class_2.csprojAssemblyReference.cache
+C:\Users\TSS\source\repos\lab_class_2\lab_class_2\obj\Debug\lab_class_2.csproj.CoreCompileInputs.cache
+C:\Users\TSS\source\repos\lab_class_2\lab_class_2\obj\Debug\lab_class_2.exe
+C:\Users\TSS\source\repos\lab_class_2\lab_class_2\obj\Debug\lab_class_2.pdb
