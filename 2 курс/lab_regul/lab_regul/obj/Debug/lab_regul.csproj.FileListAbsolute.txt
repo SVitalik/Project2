@@ -1,0 +1,10 @@
+C:\Users\TSS\source\repos\lab_regul\lab_regul\bin\Debug\lab_regul.exe.config
+C:\Users\TSS\source\repos\lab_regul\lab_regul\bin\Debug\lab_regul.exe
+C:\Users\TSS\source\repos\lab_regul\lab_regul\bin\Debug\lab_regul.pdb
+C:\Users\TSS\source\repos\lab_regul\lab_regul\obj\Debug\lab_regul.csprojAssemblyReference.cache
+C:\Users\TSS\source\repos\lab_regul\lab_regul\obj\Debug\lab_regul.Form1.resources
+C:\Users\TSS\source\repos\lab_regul\lab_regul\obj\Debug\lab_regul.Properties.Resources.resources
+C:\Users\TSS\source\repos\lab_regul\lab_regul\obj\Debug\lab_regul.csproj.GenerateResource.cache
+C:\Users\TSS\source\repos\lab_regul\lab_regul\obj\Debug\lab_regul.csproj.CoreCompileInputs.cache
+C:\Users\TSS\source\repos\lab_regul\lab_regul\obj\Debug\lab_regul.exe
+C:\Users\TSS\source\repos\lab_regul\lab_regul\obj\Debug\lab_regul.pdb
